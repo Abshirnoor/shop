@@ -1,7 +1,7 @@
-# Responsive Ecommerce Website
-## [Watch it on youtube](https://youtu.be/74UVy9gomVs)
-### Responsive Ecommerce Website
-Beautiful responsive ecommerce website, it has multiple sections such as a home, featured products, new arrivals, and much more. Fully responsive and mobile first.
+# This is a demo of my product page
+## [You can'nt check out from this website]
+### You can checkout from the other website that you will be loaded
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+
+If you want to see full store VISIT:
+[SHOP NOW]( https://www.teespring.com/stores/mictozs )
